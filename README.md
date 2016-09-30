@@ -1,2 +1,2 @@
 # demorep
-for demo
+This repository is used for demo
