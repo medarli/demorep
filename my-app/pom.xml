@@ -2,6 +2,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mycompany.demoproj</groupId>
   <artifactId>my-app</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <description>My application</description>
+  
+  <scm>
+    <connection>scm:git:git@github.com:medarli/demorep.git</connection> 
+    <developerConnection>scm:git:git@github.com:medarli/demorep.git</developerConnection> 
+    <url>git@github.com:medarli/demorep.git</url> 
+    <tag>HEAD</tag>
+  </scm>  
 </project>
